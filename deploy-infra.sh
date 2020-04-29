@@ -1,4 +1,4 @@
-STACK_NAME=awsbootstrap
+STACK_NAME=awsbootstrap5
 REGION=us-east-1 
 CLI_PROFILE=awsbootstrap
 
