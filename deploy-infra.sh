@@ -1,4 +1,4 @@
-source aws.sh
+source aws_credentials.sh
 mkdir -p ~/.github
 echo "aws-bootstrap" > ~/.github/aws-bootstrap-repo
 echo "WasifIbrahim29" > ~/.github/aws-bootstrap-owner
